@@ -1,0 +1,22 @@
+body{
+  max-width: 900px;
+  margin: auto;
+}
+
+#player{
+  float: left;
+  padding: 10px;
+}
+
+#dealer{
+  float: right;
+  padding: 10px;
+}
+
+.red{
+  color: red;
+}
+
+#card{
+  clear: both;
+}
